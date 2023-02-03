@@ -1,1 +1,1 @@
-My second readme
+Going hard on this git
